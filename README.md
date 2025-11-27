@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Zaki</h1>
 <h3 align="center"> Mobile-powered Developer |  Cyber Security Explorer |  Open Source Contributor</h3>
 
-<!-- Animasi teks -->
+<!-- GIF animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+APIs+from+Termux;Contributing+to+Open+Source+🔥;Experimenting+with+AI+and+Security;Always+Learning+📚" alt="![My GIF](assets/file.gif)" />
+  <img src="assets/file.gif" alt="My GIF" />
 </p>
 
 ---
