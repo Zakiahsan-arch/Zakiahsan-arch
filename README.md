@@ -1,11 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Zaki</h1>
 <h3 align="center"> Mobile-powered Developer |  Cyber Security Explorer |  Open Source Contributor</h3>
 
-<!-- GIF animasi -->
-<p align="center">
-  <img src="assets/file.gif" alt="My GIF" />
-</p>
-
 ---
 
 ##  About Me
