@@ -3,7 +3,7 @@
 
 <!-- Animasi teks -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+APIs+from+Termux;Contributing+to+Open+Source+🔥;Experimenting+with+AI+and+Security;Always+Learning+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+APIs+from+Termux;Contributing+to+Open+Source+🔥;Experimenting+with+AI+and+Security;Always+Learning+📚" alt="![My GIF](assets/file.gif)" />
 </p>
 
 ---
