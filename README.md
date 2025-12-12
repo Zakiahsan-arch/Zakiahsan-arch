@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,linux,firebase" />
 </p>
